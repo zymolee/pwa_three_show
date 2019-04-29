@@ -1,9 +1,9 @@
-importScripts("//zymolee.github.io/pwa_three_show/precache-manifest.755b06feef9d424281239b21b868c873.js");
+importScripts("/pwa_three_show/precache-manifest.3d7e784e74e11d8358daf78a28c6f785.js");
 
 
-        importScripts('//zymolee.github.io/pwa_three_show/static/workbox-v3.6.3/workbox-sw.js');
+        importScripts('/pwa_three_show/static/workbox-v3.6.3/workbox-sw.js');
         workbox.setConfig({
-            modulePathPrefix: '//zymolee.github.io/pwa_three_show/static/workbox-v3.6.3/'
+            modulePathPrefix: '/pwa_three_show/static/workbox-v3.6.3/'
         });
     /**
  * @file service-worker.js with workbox api
@@ -50,4 +50,4 @@ workbox.precaching.precacheAndRoute(self.__precacheManifest || []);
 //         ]
 //     })
 // );
-workbox.routing.registerNavigationRoute('//zymolee.github.io/pwa_three_show/index.html');
+workbox.routing.registerNavigationRoute('/pwa_three_show/index.html');
