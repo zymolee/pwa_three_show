@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "3742528143340e36915adf388d64060f",
-    "url": "/pwa_three_show/static/img/icons/favicon-16x16.png"
+    "revision": "7264d2ec7553bb96307af4acbe697faf",
+    "url": "/pwa_three_show/static/img/icons/favicon.ico"
   },
   {
     "revision": "01fb71892b84f7836697",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/js/vue.05c4050b.js"
   },
   {
-    "revision": "659c32e4cbc8ef2d3d4c",
-    "url": "/pwa_three_show/static/css/index.5411f742.css"
+    "revision": "fb1fcf501a832ae1ea2c",
+    "url": "/pwa_three_show/static/css/index.2ba59011.css"
   },
   {
     "revision": "9677fa9de8b437c3f976",
@@ -40,16 +40,16 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/icons/apple-touch-icon-76x76.png"
   },
   {
+    "revision": "3742528143340e36915adf388d64060f",
+    "url": "/pwa_three_show/static/img/icons/favicon-16x16.png"
+  },
+  {
+    "revision": "fb1fcf501a832ae1ea2c",
+    "url": "/pwa_three_show/static/js/index.fb1fcf50.js"
+  },
+  {
     "revision": "047f3021e153c19951f86dd209904243",
     "url": "/pwa_three_show/static/img/icons/favicon-32x32.png"
-  },
-  {
-    "revision": "659c32e4cbc8ef2d3d4c",
-    "url": "/pwa_three_show/static/js/index.659c32e4.js"
-  },
-  {
-    "revision": "7264d2ec7553bb96307af4acbe697faf",
-    "url": "/pwa_three_show/static/img/icons/favicon.ico"
   },
   {
     "revision": "0ff69c8fca81469c28f589d5fad0616e",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/cosmos/sky.jpg"
   },
   {
-    "revision": "9c15b4352fec5cb4988fa829a95cc651",
+    "revision": "51ebbac457f11a51366e4ef7f8a3541b",
     "url": "/pwa_three_show/index.html"
   },
   {
