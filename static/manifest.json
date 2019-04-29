@@ -1,5 +1,5 @@
 {
-    "start_url": "/?utm_source=homescreen",
+    "start_url": "/pwa_three_show/?utm_source=homescreen",
     "name": "pwa-THREE",
     "short_name": "pwaT",
     "icons": [
