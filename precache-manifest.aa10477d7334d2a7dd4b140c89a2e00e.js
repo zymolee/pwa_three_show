@@ -12,12 +12,12 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/js/vue.05c4050b.js"
   },
   {
-    "revision": "0ff69c8fca81469c28f589d5fad0616e",
-    "url": "/pwa_three_show/static/img/icons/apple-touch-icon-180x180.png"
+    "revision": "39d86f794d47b3fc5119d7054fb0426d",
+    "url": "/pwa_three_show/static/img/home/rocket.png"
   },
   {
-    "revision": "7ad67247732e09958f27",
-    "url": "/pwa_three_show/static/css/index.01392635.css"
+    "revision": "0f382ca678af30d83d35",
+    "url": "/pwa_three_show/static/css/index.a0bfbf3c.css"
   },
   {
     "revision": "42869ce5b031cf068f4a063625229b8e",
@@ -64,20 +64,20 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/icons/favicon-16x16.png"
   },
   {
-    "revision": "047f3021e153c19951f86dd209904243",
-    "url": "/pwa_three_show/static/img/icons/favicon-32x32.png"
+    "revision": "588079df8f1b8fde3b3cd691ee65bf06",
+    "url": "/pwa_three_show/static/img/icons/apple-touch-icon-76x76.png"
   },
   {
     "revision": "7264d2ec7553bb96307af4acbe697faf",
     "url": "/pwa_three_show/static/img/icons/favicon.ico"
   },
   {
-    "revision": "588079df8f1b8fde3b3cd691ee65bf06",
-    "url": "/pwa_three_show/static/img/icons/apple-touch-icon-76x76.png"
+    "revision": "047f3021e153c19951f86dd209904243",
+    "url": "/pwa_three_show/static/img/icons/favicon-32x32.png"
   },
   {
-    "revision": "7ad67247732e09958f27",
-    "url": "/pwa_three_show/static/js/index.7ad67247.js"
+    "revision": "0f382ca678af30d83d35",
+    "url": "/pwa_three_show/static/js/index.0f382ca6.js"
   },
   {
     "revision": "80153e46d25fe4d82c313fe23f0a3be4",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/js/manifest.9677fa9d.js"
   },
   {
-    "revision": "39d86f794d47b3fc5119d7054fb0426d",
-    "url": "/pwa_three_show/static/img/home/rocket.png"
+    "revision": "0ff69c8fca81469c28f589d5fad0616e",
+    "url": "/pwa_three_show/static/img/icons/apple-touch-icon-180x180.png"
   },
   {
     "revision": "efbe0aa485b3aeaceb8ead9191f0c4c0",
@@ -148,7 +148,7 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/cosmos/sky.jpg"
   },
   {
-    "revision": "729ff97569cac1534d91f9b2575aedf2",
+    "revision": "c29a39d566932ecc07bf5cbeec22555d",
     "url": "/pwa_three_show/index.html"
   },
   {
