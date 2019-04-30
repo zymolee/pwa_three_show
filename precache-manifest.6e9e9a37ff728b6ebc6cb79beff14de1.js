@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/home/rocket.png"
   },
   {
-    "revision": "0f382ca678af30d83d35",
-    "url": "/pwa_three_show/static/css/index.a0bfbf3c.css"
+    "revision": "c62cbdb4b646547c7736",
+    "url": "/pwa_three_show/static/css/index.d18df8a7.css"
   },
   {
     "revision": "42869ce5b031cf068f4a063625229b8e",
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/.DS_Store"
   },
   {
-    "revision": "b451e38c6ee4b03781b1019c518e7894",
-    "url": "/pwa_three_show/static/img/icons/apple-touch-icon-120x120.png"
-  },
-  {
     "revision": "b8a42c4a3b00c4f75bc636f2923eaeca",
     "url": "/pwa_three_show/static/img/icons/android-chrome-192x192.png"
+  },
+  {
+    "revision": "b451e38c6ee4b03781b1019c518e7894",
+    "url": "/pwa_three_show/static/img/icons/apple-touch-icon-120x120.png"
   },
   {
     "revision": "83409fb3fe88cb94d7d3df5fe97569c9",
@@ -60,10 +60,6 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/icons/apple-touch-icon-60x60.png"
   },
   {
-    "revision": "3742528143340e36915adf388d64060f",
-    "url": "/pwa_three_show/static/img/icons/favicon-16x16.png"
-  },
-  {
     "revision": "588079df8f1b8fde3b3cd691ee65bf06",
     "url": "/pwa_three_show/static/img/icons/apple-touch-icon-76x76.png"
   },
@@ -72,12 +68,16 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/icons/favicon.ico"
   },
   {
+    "revision": "3742528143340e36915adf388d64060f",
+    "url": "/pwa_three_show/static/img/icons/favicon-16x16.png"
+  },
+  {
     "revision": "047f3021e153c19951f86dd209904243",
     "url": "/pwa_three_show/static/img/icons/favicon-32x32.png"
   },
   {
-    "revision": "0f382ca678af30d83d35",
-    "url": "/pwa_three_show/static/js/index.0f382ca6.js"
+    "revision": "c62cbdb4b646547c7736",
+    "url": "/pwa_three_show/static/js/index.c62cbdb4.js"
   },
   {
     "revision": "80153e46d25fe4d82c313fe23f0a3be4",
@@ -112,6 +112,10 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/cosmos/jupiter.jpg"
   },
   {
+    "revision": "b63f498e7a110995c164befa9fbcf42c",
+    "url": "/pwa_three_show/static/img/cosmos/sky.jpg"
+  },
+  {
     "revision": "ee0cc4291e327014b9539858d6ef2f81",
     "url": "/pwa_three_show/static/img/cosmos/deimosbump.jpg"
   },
@@ -124,12 +128,12 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/cosmos/venusmap.jpg"
   },
   {
-    "revision": "b829dfb4a0a036c4727c5d61104c197b",
-    "url": "/pwa_three_show/static/img/cosmos/sunmap.jpg"
-  },
-  {
     "revision": "3a95b9218d50192d7be83add30e7f489",
     "url": "/pwa_three_show/static/img/cosmos/mercurymap.jpg"
+  },
+  {
+    "revision": "b829dfb4a0a036c4727c5d61104c197b",
+    "url": "/pwa_three_show/static/img/cosmos/sunmap.jpg"
   },
   {
     "revision": "58971884cb0d18f2b30fd8d20580f7a6",
@@ -144,11 +148,7 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/cosmos/moonmap1k.jpg"
   },
   {
-    "revision": "6fec87e83a9c514bb1191438336f9586",
-    "url": "/pwa_three_show/static/img/cosmos/sky.jpg"
-  },
-  {
-    "revision": "c29a39d566932ecc07bf5cbeec22555d",
+    "revision": "75ed5d8e8c20bfe37848057d91f9b852",
     "url": "/pwa_three_show/index.html"
   },
   {
