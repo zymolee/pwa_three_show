@@ -12,12 +12,12 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/js/vue.05c4050b.js"
   },
   {
-    "revision": "39d86f794d47b3fc5119d7054fb0426d",
-    "url": "/pwa_three_show/static/img/home/rocket.png"
+    "revision": "0ff69c8fca81469c28f589d5fad0616e",
+    "url": "/pwa_three_show/static/img/icons/apple-touch-icon-180x180.png"
   },
   {
-    "revision": "c62cbdb4b646547c7736",
-    "url": "/pwa_three_show/static/css/index.d18df8a7.css"
+    "revision": "7734d3a52ad2d657745c",
+    "url": "/pwa_three_show/static/css/index.e6ba85b9.css"
   },
   {
     "revision": "42869ce5b031cf068f4a063625229b8e",
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/.DS_Store"
   },
   {
-    "revision": "b8a42c4a3b00c4f75bc636f2923eaeca",
-    "url": "/pwa_three_show/static/img/icons/android-chrome-192x192.png"
-  },
-  {
     "revision": "b451e38c6ee4b03781b1019c518e7894",
     "url": "/pwa_three_show/static/img/icons/apple-touch-icon-120x120.png"
+  },
+  {
+    "revision": "b8a42c4a3b00c4f75bc636f2923eaeca",
+    "url": "/pwa_three_show/static/img/icons/android-chrome-192x192.png"
   },
   {
     "revision": "83409fb3fe88cb94d7d3df5fe97569c9",
@@ -64,10 +64,6 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/icons/apple-touch-icon-76x76.png"
   },
   {
-    "revision": "7264d2ec7553bb96307af4acbe697faf",
-    "url": "/pwa_three_show/static/img/icons/favicon.ico"
-  },
-  {
     "revision": "3742528143340e36915adf388d64060f",
     "url": "/pwa_three_show/static/img/icons/favicon-16x16.png"
   },
@@ -76,8 +72,12 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/icons/favicon-32x32.png"
   },
   {
-    "revision": "c62cbdb4b646547c7736",
-    "url": "/pwa_three_show/static/js/index.c62cbdb4.js"
+    "revision": "7264d2ec7553bb96307af4acbe697faf",
+    "url": "/pwa_three_show/static/img/icons/favicon.ico"
+  },
+  {
+    "revision": "7734d3a52ad2d657745c",
+    "url": "/pwa_three_show/static/js/index.7734d3a5.js"
   },
   {
     "revision": "80153e46d25fe4d82c313fe23f0a3be4",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/js/manifest.9677fa9d.js"
   },
   {
-    "revision": "0ff69c8fca81469c28f589d5fad0616e",
-    "url": "/pwa_three_show/static/img/icons/apple-touch-icon-180x180.png"
+    "revision": "39d86f794d47b3fc5119d7054fb0426d",
+    "url": "/pwa_three_show/static/img/home/rocket.png"
   },
   {
     "revision": "efbe0aa485b3aeaceb8ead9191f0c4c0",
@@ -148,7 +148,7 @@ self.__precacheManifest = [
     "url": "/pwa_three_show/static/img/cosmos/moonmap1k.jpg"
   },
   {
-    "revision": "75ed5d8e8c20bfe37848057d91f9b852",
+    "revision": "b0fba61b072e0174e0074516d549f973",
     "url": "/pwa_three_show/index.html"
   },
   {
