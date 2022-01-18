@@ -1,4 +1,4 @@
-importScripts("/pwa_three_show/precache-manifest.4a730aef9eda783dc95271aceb59cb98.js");
+importScripts("/pwa_three_show/precache-manifest.b2419640080d25700175055c158fed41.js");
 
 
         importScripts('/pwa_three_show/static/workbox-v3.6.3/workbox-sw.js');
